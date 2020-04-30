@@ -12,7 +12,6 @@
 #include "helper.h"
 #include "stm8l15x_flash.h"
 
-
 #define SYS_FLASH_DATA_ADDR 0
 
 #define SYS_Mode_DEINT 0
